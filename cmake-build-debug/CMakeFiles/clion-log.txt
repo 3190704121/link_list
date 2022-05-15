@@ -1,0 +1,4 @@
+"D:\software\Clion\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/software/Clion/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/software/Clion/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/software/Clion/mingw64/bin/g++.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" E:\408\data_structure\Linear\link_list
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/408/data_structure/Linear/link_list/cmake-build-debug
