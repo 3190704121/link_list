@@ -6,11 +6,12 @@
 
 void testLinklist(){//单链表测试
     LinkList L;
-    List_HeadInsert(L);
-    printf("链表的长度为%d\n",Length(L));
-    int e=-1;
-    ListDelete(L,3,e);
-    printf("%d",e);
+    L=List_HeadInsert(L);
+    LNode *s=L;
+    for (int i = 0; i < Length(L); ++i) {
+        s=s->next;
+        printf("%d",s->data);
+    }
 }
 
 void testDLinklist() {//双链表测试

@@ -5,14 +5,20 @@ CMakeFiles/link_list.dir/Double_linked_list.cpp.obj: \
  ../Double_linked_list.cpp \
  ../Double_linked_list.h \
  ../Header_file.h \
- ../Single_linked_list.h
+ ../Single_linked_list.h \
+ ../Static_linked_list.h
 CMakeFiles/link_list.dir/Single_linked_list.cpp.obj: \
  ../Double_linked_list.h \
  ../Header_file.h \
  ../Single_linked_list.cpp \
- ../Single_linked_list.h
+ ../Single_linked_list.h \
+ ../Static_linked_list.h
+CMakeFiles/link_list.dir/Static_linked_list.cpp.obj: \
+ ../Static_linked_list.cpp \
+ ../Static_linked_list.h
 CMakeFiles/link_list.dir/main.cpp.obj: \
  ../Double_linked_list.h \
  ../Header_file.h \
  ../Single_linked_list.h \
+ ../Static_linked_list.h \
  ../main.cpp

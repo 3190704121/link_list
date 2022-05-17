@@ -6,10 +6,6 @@
 
 #IncludeRegexTransform: 
 
-E:/408/data_structure/Linear/link_list/Double_linked_list.cpp
-Header_file.h
-E:/408/data_structure/Linear/link_list/Header_file.h
-
 E:/408/data_structure/Linear/link_list/Double_linked_list.h
 
 E:/408/data_structure/Linear/link_list/Header_file.h
@@ -17,16 +13,18 @@ stdio.h
 -
 stdlib.h
 -
+malloc.h
+E:/408/data_structure/Linear/link_list/malloc.h
 Single_linked_list.h
 E:/408/data_structure/Linear/link_list/Single_linked_list.h
 Double_linked_list.h
 E:/408/data_structure/Linear/link_list/Double_linked_list.h
-
-E:/408/data_structure/Linear/link_list/Single_linked_list.cpp
-Header_file.h
-E:/408/data_structure/Linear/link_list/Header_file.h
+Static_linked_list.h
+E:/408/data_structure/Linear/link_list/Static_linked_list.h
 
 E:/408/data_structure/Linear/link_list/Single_linked_list.h
+
+E:/408/data_structure/Linear/link_list/Static_linked_list.h
 
 E:/408/data_structure/Linear/link_list/main.cpp
 Header_file.h
